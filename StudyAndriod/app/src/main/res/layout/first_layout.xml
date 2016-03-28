@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+
+
+    <!--<com.example.caijie.layout.TitleLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"></com.example.caijie.layout.TitleLayout>-->
+
+   <!--<ListView-->
+       <!--android:layout_width="match_parent"-->
+       <!--android:layout_height="match_parent"-->
+       <!--android:id="@+id/list_view">-->
+   <!--</ListView>-->
+
+
+    <!--<ToggleButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="New ToggleButton"-->
+        <!--android:id="@+id/toggleButton"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:checked="false" />-->
+
+    <!--<include layout="@layout/title"/>-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_1"
+        android:text="Button 1"
+        style="@style/MyLove"
+
+        />
+    <!--<TextView-->
+
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/text_view"-->
+        <!--android:text="This is textView"-->
+        <!--android:textSize="24sp"-->
+        <!--android:textColor="#00ff00"-->
+        <!--android:gravity="center"/>-->
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/edit_text"-->
+        <!--android:hint="Type something here"-->
+        <!--android:maxLines="2"/>-->
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/image_view"-->
+        <!--android:src="@mipmap/ic_launcher"/>-->
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:inputType="date"-->
+        <!--android:ems="10"-->
+        <!--android:id="@+id/editText"-->
+        <!--android:text="as" />-->
+
+    <!--<ProgressBar-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/progress_bar"-->
+        <!--style="@style/Base.Animation.AppCompat.DropDownUp"/>-->
+
+
+
+
+</LinearLayout>
